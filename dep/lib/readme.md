@@ -1,0 +1,1 @@
+For the time being, you will need to manually place the compiled "vellocet3d.lib" file from vellocet3d into this directory.

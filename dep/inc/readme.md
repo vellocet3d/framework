@@ -1,0 +1,1 @@
+For the time being, you will need to manually place the "vel" directory containing the header files from vellocet3d into this directory.
