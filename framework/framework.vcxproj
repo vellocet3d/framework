@@ -19,13 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\controllers\CameraController.cpp" />
     <ClCompile Include="src\controllers\TerminateController.cpp" />
     <ClCompile Include="src\Main.cpp" />
     <ClCompile Include="src\scenes\ExampleScene.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="inc\controllers\CameraController.h" />
     <ClInclude Include="inc\controllers\TerminateController.h" />
     <ClInclude Include="inc\scenes\ExampleScene.h" />
   </ItemGroup>

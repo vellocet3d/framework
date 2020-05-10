@@ -21,18 +21,12 @@
     <ClCompile Include="src\controllers\TerminateController.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\controllers\CameraController.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="src\scenes\ExampleScene.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="inc\controllers\TerminateController.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="inc\controllers\CameraController.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="inc\scenes\ExampleScene.h">
