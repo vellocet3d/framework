@@ -1,0 +1,1 @@
+This is outdated until further notice. The "examples" repo can be used to obtain the correct framework structure for the time being.
